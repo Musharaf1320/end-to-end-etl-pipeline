@@ -1,0 +1,11 @@
+order_id,customer_name,product,category,quantity,price,order_date,city
+1001,Ali Khan,Laptop,Electronics,1,850,2025-01-10,Dallas
+1002,Sarah Lee,Mouse,Electronics,2,25,2025-01-11,Austin
+1003,John Smith,Office Chair,Furniture,1,150,2025-01-12,Houston
+1004,Maria Garcia,Desk,Furniture,1,300,2025-01-13,Dallas
+1005,David Kim,Keyboard,Electronics,3,45,2025-01-14,Chicago
+1006,Ayesha Noor,Monitor,Electronics,2,220,2025-01-15,Dallas
+1007,James Brown,Notebook,Stationery,5,6,2025-01-16,Austin
+1008,Fatima Ahmed,Pen,Stationery,10,2,2025-01-17,Houston
+1009,Chris Wilson,Headphones,Electronics,1,120,2025-01-18,Chicago
+1010,Linda Davis,Bookshelf,Furniture,1,180,2025-01-19,Dallas
