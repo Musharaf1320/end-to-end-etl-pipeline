@@ -41,3 +41,21 @@ end-to-end-etl-pipeline/
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
+
+
+CSV File
+   ↓
+Python + Pandas
+(clean & transform data)
+   ↓
+SQLAlchemy
+(connect Python to DB)
+   ↓
+PostgreSQL
+(store data)
+   ↓
+SQL Queries
+(analyze data)
+   ↓
+DBeaver
+(view results)
