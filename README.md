@@ -61,5 +61,5 @@ DBeaver
 (view results)
 
 
-<img width="1920" height="1080" alt="SQL query results" src="https://github.com/user-attachments/assets/a62eca5b-9c41-4a54-998d-8bed88d044e3" />
+
 
